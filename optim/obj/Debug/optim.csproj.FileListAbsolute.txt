@@ -1,0 +1,11 @@
+C:\Users\mrvas\source\repos\optim\optim\bin\Debug\optim.exe.config
+C:\Users\mrvas\source\repos\optim\optim\bin\Debug\optim.exe
+C:\Users\mrvas\source\repos\optim\optim\bin\Debug\optim.pdb
+C:\Users\mrvas\source\repos\optim\optim\obj\Debug\optim.csproj.AssemblyReference.cache
+C:\Users\mrvas\source\repos\optim\optim\obj\Debug\optim.csproj.SuggestedBindingRedirects.cache
+C:\Users\mrvas\source\repos\optim\optim\obj\Debug\optim.Form1.resources
+C:\Users\mrvas\source\repos\optim\optim\obj\Debug\optim.Properties.Resources.resources
+C:\Users\mrvas\source\repos\optim\optim\obj\Debug\optim.csproj.GenerateResource.cache
+C:\Users\mrvas\source\repos\optim\optim\obj\Debug\optim.csproj.CoreCompileInputs.cache
+C:\Users\mrvas\source\repos\optim\optim\obj\Debug\optim.exe
+C:\Users\mrvas\source\repos\optim\optim\obj\Debug\optim.pdb
